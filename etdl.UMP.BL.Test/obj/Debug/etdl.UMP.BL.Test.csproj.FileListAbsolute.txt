@@ -1,0 +1,12 @@
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\obj\Debug\etdl.UMP.BL.Test.csprojResolveAssemblyReference.cache
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.BL.Test.dll.config
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.BL.Test.dll
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.BL.Test.pdb
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.DO.dll
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.Web.BL.dll
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.DA.dll
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.DO.pdb
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.Web.BL.pdb
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\bin\Debug\etdl.UMP.DA.pdb
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\obj\Debug\etdl.UMP.BL.Test.dll
+D:\Development\MVC\UMP\etdl.UMP.BL.Test\obj\Debug\etdl.UMP.BL.Test.pdb
